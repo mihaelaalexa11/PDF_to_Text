@@ -1,0 +1,72 @@
+Factur fiscal seria 15AB nr. 72018923 din data de 06.08.2024
+
+Furnizor:
+PPC Energie S.A.
+Adres: Bulevardul Mircea Vod, nr. 30, et. 6, Camera 6.8, sector 3,
+Bucureti, cod potal 030667
+Cod TVA/CIF: RO22000460
+Nr. nreg. R.C.: J40/12303/26.06.2007
+Capital social subscris i vrsat: 140.000.000 lei
+Cont: RO54CITI0000000725071019
+Banc: Citibank Europe plc, Dublin-Sucursala Romania
+Operator de date cu caracter personal nr. 10583
+Descoper cel mai apropiat magazin:
+https://www.ppcenergy.ro/ppc-energie/contact
+Adres de coresponden
+POPESCU JOHN
+Strada DORNEI, nr. 87, bl. 1, sc. C, ap. 55, localitate
+ARAD, jude Arad, cod potal 200250
+
+Contacte utile
+
+FURNIZOR
+Program Call-Center: L-V 08-20
+Telefon Call-Center: 021 9977 (apel cu tarif normal)
+Formular contact:
+https://www.ppcenergy.ro/ppc-energie/contact/formular-online
+Telefon index autocitit: 0800 07 07 01
+Interval transmitere index autocitit: 22.08.2024-31.08.2024
+CLIENT
+POPESCU JOHN
+Adres de domiciliu: Strada DORNEI, nr. 87, bl. 1, sc.
+C, ap. 55, localitate ARAD
+Cod de client:C810789807
+Numr/Dat contract/Dat ncetare contract:
+97520175/31.10.2017/
+
+DISTRIBUITOR
+Interval citire index contor Retele Electrice Banat S.A.:
+01.09.2024 - 30.09.2024
+Telefon deranjamente Retele Electrice Banat S.A.: 0800 070 444
+Aplicaia myPPC
+Rapid i sigur
+Date necesare plii
+Cod plat: 720631875
+ID factur: 30001074811
+
+Acceseaz toate informaiile legate de contractul tu.
+Scaneaz codul QR pentru a-i instala aplicaia myPPC.
+Folosete Cod plat i ID factur pentru a achita o anumit
+factur sau doar Cod plat pentru a achita tot soldul.
+
+Perioad facturare: Produse U.M. Valoare
+01.07.2024-31.07.2024 1. Valoare facturat fr TVA (conform Anex) lei 34,56
+Mod stabilire index: 2. Total baz de impozitare TVA lei 44,56
+Estimare 3. TVA 19% (3=2*19%) lei 8,47
+Dat scaden:
+21.08.2024 4. Valoare factur curent (4=1+3) (conform "Detalii factur") lei 43,03
+5. Sold la data emiterii facturii (facturi restante sau credit) lei 0,00
+6. Total de plat (6=4+5) lei 43,03
+7. Consum energie activ kWh 78
+8. Pre final facturat* lei/kWh 0,68
+Denumirea ofertei comerciale de care beneficiezi a fost actualizat ca urmare a modificrii denumirii companiei de furnizare n PPC Energie S.A.,
+condiiile economice rmnnd neschimbate pe durata de valabilitate a acestora. Regseti noua denumire a ofertei n pagina detaliat a locului/locurilor
+de consum.
+
+n situaia n care Total de plat are valoare negativ, suma va fi restituit n termen de 5 zile de la data primirii informaiilor necesare plii. Pentru
+procesarea rapid, sigur i fr costuri suplimentare a plilor, te rugm s ne comunici contul bancar sau adresa de domiciliu din actul de identitate.
+Suma poate fi utilizat i pentru compensare n contul facturilor urmtoare.
+
+* Preul final facturat este compus din "Total energie electric activ consumat" i componenta de "Rezervare", dac aceasta se regsete n Anex. n cazul n care factura
+este emis pentru mai multe locuri de consum, preul final facturat aferent fiecrui loc de consum se regsete n Anexa dedicat fiecrui loc de consum. Preul final facturat
+regsit n tabelul de mai sus reprezint media ponderat a preurilor finale facturate pentru fiecare loc de consum.
